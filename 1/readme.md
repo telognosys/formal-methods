@@ -21,9 +21,9 @@ Diseñar un sistema simple que permita especificar, ejecutar y verificar program
 ## Alcance del proyecto
 ### In-Scope
 - Lenguaje imperativo sencillo con:
-- Variables, enteros, expresiones aritméticas
-- Asignación, secuencias, condicionales
-- Bucles while con invariantes dadas
+  - Variables, enteros, expresiones aritméticas
+  - Asignación, secuencias, condicionales
+  - Bucles while con invariantes dadas
 - Verificación de postcondiciones usando lógica de Hoare
 - Uso de Z3 para probar propiedades sobre los programas
 - Interfaz de consola para cargar y verificar programas
