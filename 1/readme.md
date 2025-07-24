@@ -3,10 +3,6 @@
 ## Objetivo
 Diseñar un sistema simple que permita especificar, ejecutar y verificar programas escritos en un lenguaje imperativo pequeño, usando lógica de Hoare y Z3 como motor de verificación.
 
-## Motivación
-Los sistemas de verificación formal permiten demostrar matemáticamente que un programa cumple sus especificaciones, lo cual es esencial en contextos críticos: sistemas financieros, software médico, controladores de vuelo, etc.
-Este proyecto replica a pequeña escala lo que hacen herramientas reales como Dafny, F* o Frama-C, pero de forma didáctica, con un lenguaje pequeño pero completo.
-
 ## Componentes
 - ast.py ->
 - eval.py -> 
