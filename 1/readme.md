@@ -8,12 +8,12 @@ Los sistemas de verificación formal permiten demostrar matemáticamente que un 
 Este proyecto replica a pequeña escala lo que hacen herramientas reales como Dafny, F* o Frama-C, pero de forma didáctica, con un lenguaje pequeño pero completo.
 
 ## Componentes
-ast.py ->
-eval.py -> 
-vcgen.py ->
-z3_solver.py ->
-main.py ->
-examples/ ->
+- ast.py ->
+- eval.py -> 
+- vcgen.py ->
+- z3_solver.py ->
+- main.py ->
+- examples/ ->
 
 ## Conceptos aprendidos
 1. Lógica de Hoare
